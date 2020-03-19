@@ -1,4 +1,4 @@
-# TheBest
+# TheBest™
 ## CSCI 3308 Project
 #### Deployed at: http://jacobhans.pythonanywhere.com
 This deployment does not support sockets, which means the messanger will not update without refreshing the page.
